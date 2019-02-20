@@ -1,0 +1,7 @@
+com\luobin\manage_ssm\domain\Product.class
+com\luobin\manage_ssm\domain\Orders.class
+com\luobin\manage_ssm\domain\Member.class
+com\luobin\manage_ssm\domain\Traveller.class
+com\luobin\manage_ssm\domain\UserInfo.class
+com\luobin\manage_ssm\domain\Permission.class
+com\luobin\manage_ssm\domain\Role.class
